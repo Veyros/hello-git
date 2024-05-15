@@ -1,1 +1,1 @@
-print("ñam ñam todo")
+print("new hello Git 2!")
